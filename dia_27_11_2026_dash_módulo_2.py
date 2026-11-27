@@ -8,7 +8,6 @@ Original file is located at
 """
 
 #instalamos a biblioteca do streamlit, porque o colab precisa usar também
-!pip install -q streamlit
 
 #vamos fazer os imports necessários para construção do dash
 import pandas as pd
